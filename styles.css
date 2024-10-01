@@ -1,0 +1,42 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    background-color: #ddd;
+    border-radius: 50%;
+    background-image: url('Wa\ muka.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.name-box {
+    width: 500px;
+    height: 100px;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 50px;
+}
+
+.social-logo {
+    width: 100px;
+    height: 100px;
+}
+
+.date-time-box {
+    width: 150px;
+    height: 30px;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 5px;
+}
